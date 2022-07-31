@@ -6,7 +6,7 @@ Label button is to locate where to put the mask of an object. Click the label bu
 
 <img src=https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/2.png height='250'>
 
-Then the selected folder appears on the line.
+Then the selected folder appears on the line for double-check.
 
 <img src=https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/3.png width='250'>
                                                                                                       

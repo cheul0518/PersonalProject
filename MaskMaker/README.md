@@ -26,3 +26,9 @@ You can remove the drawn line by either right-clicking or holding and dragging t
 Save the mask by clicking "s" on keyboard, and close the editor by clicking "z" on keyboard. And the mask's there in the selected folder.
 
 <img src= https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/9_2.png height='250'> <img src= https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/10.png height='250'>
+
+Last update: 07/31/2022
+
+Future update contents:
+1. Brush size
+2. Multiple objects mask

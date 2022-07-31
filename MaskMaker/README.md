@@ -1,4 +1,4 @@
-This application is to make the mask for a single object: mask.exe
+## mask.exe: this application is to make the mask for a single object
 
 <img src=https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/1.png width='250'>
 

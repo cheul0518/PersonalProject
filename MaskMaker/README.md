@@ -22,7 +22,7 @@ You can remove the drawn line by either right-clicking or holding and dragging t
 <img src=https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/7.png height='250'>
 <img src=https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/8.png height='250'>
 
-ou can save the mask by clicking "s" on keyboard, and close the editor by clicking "z" on keyboard. And the mask's there in the selected folder.
+Save the mask by clicking "s" on keyboard, and close the editor by clicking "z" on keyboard. And the mask's there in the selected folder.
 
 <img src= https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/9_2.png height='250'>
-<img src= https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/10.pngheight='250'>
+<img src= https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/10.png height='250'>

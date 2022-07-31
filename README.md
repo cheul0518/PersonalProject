@@ -1,4 +1,3 @@
-# Self-projects
+# Personal projects
 1. Image Segmentation
-2. Object Detection
-3. GAN
+2. GAN

@@ -30,6 +30,5 @@ Save the mask by clicking "s" on keyboard, and close the editor by clicking "z" 
 Last update: 07/31/2022
 
 Future update contents:
-1. Mask annotation
-2. Brush size and color
-3. Multiple objects mask
+1. Brush size and color
+2. Multiple objects mask

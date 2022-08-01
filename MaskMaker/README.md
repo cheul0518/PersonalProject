@@ -15,11 +15,11 @@ Now click the image button, and select the image you would like to mask.
 
 <img src =https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/4.png height='250'>
 
-Contours the object that you want to mask by either left-clicking or holding and dragging the left mouse button.
+Contours the object that you want to mask by either left-clicking or clicking and dragging the left mouse button.
 <img src=https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/5.png height='250'>
 <img src=https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/6.png height='250'>
 
-You can remove the drawn line by either right-clicking or holding and dragging the right mouse button. 
+You can remove the drawn line by either right-clicking or clicking and dragging the right mouse button. 
 <img src=https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/7.png height='250'>
 <img src=https://raw.githubusercontent.com/cheul0518/PersonalProject/main/MaskMaker/pics/8.png height='250'>
 

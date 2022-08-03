@@ -1,4 +1,3 @@
-## Unet
- - data:
-    - 2018 Data Science Bowl
-    - Sandstone
+## Image segmentation
+ - Unet(classic)
+    - data: 2018 Data Science Bowl, Sandstone

@@ -1,1 +1,3 @@
-# GAN
+## GAN
+  - data
+      - MNIST 

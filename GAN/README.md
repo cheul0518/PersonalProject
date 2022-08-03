@@ -1,3 +1,3 @@
 ## GAN
-  - data
-      - MNIST 
+  - classic GAN
+      - data: MNIST 

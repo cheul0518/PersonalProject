@@ -1,3 +1,3 @@
 ## GAN
-  - classic version
+  - classic version: generator and discriminator with binary crossentropy loss
       - data: MNIST 

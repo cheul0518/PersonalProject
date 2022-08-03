@@ -1,3 +1,3 @@
 ## GAN
-  - classic GAN
+  - classic version
       - data: MNIST 
